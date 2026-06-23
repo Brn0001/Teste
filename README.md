@@ -1,15 +1,19 @@
-# Fase de grupos Copa do Mundo 2026
+# Eu sou Brenno Silva
 
-## Esse é o `Grupo do Brasil`
+ Estudante da TI, atualmente no 3º Ano do Ensino Médio
 
-```Java
-print(Feito no dia 22/06)
-```
+📚 Atualmente estudando:
+- Sistema de Segurança Digital
+- Sistemas ERP
+- Redes de Computadores
+- Computação em Nuvem
 
- 
-Equipes | Pts | J | V | E | D |
---- | --- | --- | --- | --- | --- |
-1 Brasil | 4 | 2 | 1 | 1 | 0
-2 Marrocos | 4 | 2 | 1 | 1 | 0
-3 Escócia | 3 | 2 | 1 | 0 | 1
-4 Haiti | 0 | 2 | 0 | 0 | 2
+ Contato:
+<p align="left">
+  <a href="https://instagram.com/brenno13_">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="50" />
+  </a>
+  <a href="https://linkedin.com/in/Brenno Martins">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="50" />
+  </a>
+</p>
